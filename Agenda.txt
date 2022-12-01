@@ -1,0 +1,11 @@
+Agenda
+1) Introduction to Grid layout CSS 
+2) Getting familiar with fr Unit
+3) Positioning Grid items
+4) Spanning Grid items
+** Challenge
+5) Naming Grid Lines
+6) Naming Grid Areas
+7) Implicit Grids vs Explicit Grids
+8) Aligning Grid items
+9) Aligning Tracks
